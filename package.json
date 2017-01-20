@@ -1,0 +1,19 @@
+{
+  "name": "nodedbapp",
+  "version": "1.0.0",
+  "description": "User DB app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/samuelohim/node-crud-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "express": "^4.14.0"
+  }
+}
