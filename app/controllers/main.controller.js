@@ -1,8 +1,10 @@
 module.exports = {
 
-	showHome:(req, res) =>{
+	showHome: (req, res)=>{
 
-		res.send('Hi Friday');
+		res.render('pages/home');	// it looks into pages by default
+
+		res.send('Hi programmer');
 
 	}
 
